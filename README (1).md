@@ -18,5 +18,5 @@ This project explores using AWS cloud, python and Kafka to execute an End-To-End
 - Apache Kafka
 
 ## Dataset Used
-Here is the dataset used in the video - 
+Here is the dataset used in the project - 
 https://github.com/KhannaRishika/Hotel_Booking_Analysis_AWS/blob/a96bb8a29477790ee1239337d82a7a51c3364407/Hotel%20Bookings.csv
