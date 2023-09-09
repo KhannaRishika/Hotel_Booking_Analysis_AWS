@@ -10,13 +10,12 @@ This project explores using AWS cloud, python and Kafka to execute an End-To-End
 ## Technology Used
 - Programming Language - Python
 - Amazon Web Service (AWS)
-1. S3 (Simple Storage Service)
-2. Athena
-3. Glue Crawler
-4. Glue Catalog
-5. EC2
+1. EC2
+2. S3 (Simple Storage Service)
+3. Glue Crawler/Catalog
+4. Athena
+6. Quicksight
 - Apache Kafka
-
 
 ## Dataset Used
 Here is the dataset used in the video - 
