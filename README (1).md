@@ -1,7 +1,6 @@
-# Stock Market Kafka Real Time Data Engineering Project
+# Project on Data Analysis using Quicksight for Hotel bookings, in Real-Time
 
 ## Introduction 
-	Project on Data Analysis using Quicksight for Hotel bookings, in Real-Time
 This project explores using AWS cloud, python and Kafka to execute an End-To-End solution for Real-Time Data Analysis for Hotel Bookings.
                                                                   
 
